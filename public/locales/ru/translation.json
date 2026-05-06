@@ -1,0 +1,32 @@
+{
+  "cargo": {
+    "breadcrumb": "Главная / Все грузы",
+    "title": "Все грузы",
+    "filterStatus": "Статус",
+    "filterSearch": "Поиск",
+    "searchPlaceholder": "Поиск груза...",
+    "searchButton": "Поиск",
+    "resetButton": "Сбросить",
+    "loading": "Загрузка...",
+    "retryButton": "Повторить",
+    "emptyTitle": "Данные не найдены",
+    "emptyDescription": "Измените поисковый запрос или очистите фильтр.",
+    "errorMessage": "Произошла ошибка при загрузке данных. Попробуйте снова.",
+    "paginationLimit": "Лимит",
+    "paginationPrev": "Назад",
+    "paginationNext": "Вперед",
+    "table": {
+      "from": "Откуда загрузка",
+      "to": "Куда доставка",
+      "price": "Цена",
+      "cargo": "Груз",
+      "customer": "Заказчик",
+      "actions": "Действия"
+    }
+  },
+  "language": {
+    "uz": "Uz",
+    "ru": "Ru",
+    "en": "En"
+  }
+}

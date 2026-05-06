@@ -1,0 +1,32 @@
+{
+  "cargo": {
+    "breadcrumb": "Bosh sahifa / Barcha yuklar",
+    "title": "Barcha yuklar",
+    "filterStatus": "Status",
+    "filterSearch": "Qidiruv",
+    "searchPlaceholder": "Yuk qidirish...",
+    "searchButton": "Qidirish",
+    "resetButton": "Tozalash",
+    "loading": "Yuklanmoqda...",
+    "retryButton": "Qayta urinish",
+    "emptyTitle": "Maʼlumot topilmadi",
+    "emptyDescription": "Qidiruv so‘rovini o‘zgartirib ko‘ring yoki filterni tozalang.",
+    "errorMessage": "Maʼlumotlarni yuklashda xatolik yuz berdi. Qayta urinib ko‘ring.",
+    "paginationLimit": "Limit",
+    "paginationPrev": "Oldingi",
+    "paginationNext": "Keyingi",
+    "table": {
+      "from": "Qayerdan olish",
+      "to": "Qayerga",
+      "price": "Narx",
+      "cargo": "Yuk",
+      "customer": "Buyurtmachi",
+      "actions": "Amallar"
+    }
+  },
+  "language": {
+    "uz": "Uz",
+    "ru": "Ru",
+    "en": "En"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "cargo": {
+    "breadcrumb": "Home / All cargo",
+    "title": "All cargo",
+    "filterStatus": "Status",
+    "filterSearch": "Search",
+    "searchPlaceholder": "Search cargo...",
+    "searchButton": "Search",
+    "resetButton": "Reset",
+    "loading": "Loading...",
+    "retryButton": "Retry",
+    "emptyTitle": "No data found",
+    "emptyDescription": "Try changing your search query or clearing the filter.",
+    "errorMessage": "An error occurred while loading data. Please try again.",
+    "paginationLimit": "Limit",
+    "paginationPrev": "Prev",
+    "paginationNext": "Next",
+    "table": {
+      "from": "From",
+      "to": "To",
+      "price": "Price",
+      "cargo": "Cargo",
+      "customer": "Customer",
+      "actions": "Actions"
+    }
+  },
+  "language": {
+    "uz": "Uz",
+    "ru": "Ru",
+    "en": "En"
+  }
+}
