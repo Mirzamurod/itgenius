@@ -15,7 +15,7 @@ npm install
 Loyihaning root qismida `.env` (yoki `.env.local`) fayl yarating:
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=https://api.sarbon.me/v1
+NEXT_PUBLIC_API_BASE_URL=your_api_base_url
 NEXT_PUBLIC_X_DEVICE_TYPE=web
 NEXT_PUBLIC_X_LANGUAGE=uz
 NEXT_PUBLIC_X_CLIENT_TOKEN=your_client_token
@@ -37,3 +37,4 @@ Carga sahifasi: [http://localhost:3000/dispatcher/cargo](http://localhost:3000/d
 npm run build
 npm run start
 ```
+
